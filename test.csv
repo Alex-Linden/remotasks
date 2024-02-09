@@ -1,0 +1,7 @@
+brand,model,processor_brand,processor_name,processor_gnrtn,ram_gb,ram_type,ssd,hdd,os,os_bit,graphic_card_gb,weight,display_size,warranty,Touchscreen,msoffice,latest_price,old_price,discount,star_rating,ratings,reviews
+Lenovo,A6-9225,AMD,A6-9225 Processor,10th,4 GB GB,DDR4,0 GB,1024 GB,Windows,64-bit,0,ThinNlight,Missing,0,No,No,24990,32790,23,3.7,63,12
+Lenovo,Ideapad,AMD,APU Dual,10th,4 GB GB,DDR4,0 GB,512 GB,Windows,64-bit,0,Casual,Missing,0,No,No,19590,21325,8,3.6,1894,256
+Avita,PURA,AMD,APU Dual,10th,4 GB GB,DDR4,128 GB,0 GB,Windows,64-bit,0,ThinNlight,Missing,0,No,No,19990,27990,28,3.7,1153,159
+Avita,PURA,AMD,APU Dual,10th,4 GB GB,DDR4,128 GB,0 GB,Windows,64-bit,0,ThinNlight,Missing,0,No,No,21490,27990,23,3.7,1153,159
+
+Given this csv format, I want to count each processor_name then sort them by highest first.
